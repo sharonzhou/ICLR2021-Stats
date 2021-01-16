@@ -13,6 +13,6 @@ Run the ipython notebook `iclr2021_stats.ipynb` for the results below. Alternati
 
 
 ### Acknowledgments
-The file `iclr_results_final.csv` is from @SergeyI49013776's spreadsheet at https://docs.google.com/spreadsheets/d/1n58O0lgGI5kI0QQY9f4BDDpNB4oFjb5D51yMr9fHAK4/edit#gid=1546418007. 
+The file `iclr_results_final.csv` is from Sergey Ivanov's spreadsheet at https://docs.google.com/spreadsheets/d/1n58O0lgGI5kI0QQY9f4BDDpNB4oFjb5D51yMr9fHAK4/edit#gid=1546418007. 
 
-Also, take a gander at last year's repo on ICLR 2021 stats by @shaohua0116 at https://github.com/shaohua0116/ICLR2020-OpenReviewData. It has a lot of cool viz not included here, particularly related to word clouds. A diff between the two years would be very cool — especially if it's enough to see any shifts. Any guesses? At any rate, a decade is more realistic to see semblance of meaningful shifts.
+Also, take a gander at last year's repo on ICLR 2021 stats by Shao-Hua Sun at https://github.com/shaohua0116/ICLR2020-OpenReviewData. It has a lot of cool viz not included here, particularly related to word clouds. A diff between the two years would be very cool — especially if it's enough to see any shifts. Any guesses? At any rate, a decade is more realistic to see semblance of meaningful shifts.
