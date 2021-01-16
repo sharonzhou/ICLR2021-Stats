@@ -1,0 +1,1297 @@
+Name,Submitted,Accepted,Rejected,AvgScore,AvgAcceptedScore
+Google,409,197,212,5.789804400977998,6.585025380710664
+Stanford University,241,124,117,5.929917012448134,6.610080645161294
+University of California Berkeley,222,94,128,5.8554054054054046,6.663617021276597
+Carnegie Mellon University,184,89,95,5.8663043478260875,6.547191011235954
+Massachusetts Institute of Technology,220,88,132,5.691772727272721,6.4273863636363595
+Microsoft,167,63,104,5.625808383233534,6.447460317460317
+Korea Advanced Institute of Science and Technology,163,59,104,5.549079754601227,6.25677966101695
+University of Oxford,126,57,69,5.699523809523807,6.57035087719298
+Facebook,143,55,88,5.742027972027972,6.562545454545456
+University of Montreal,93,53,40,5.933118279569891,6.660566037735849
+Swiss Federal Institute of Technology,95,46,49,5.751263157894737,6.45913043478261
+University of Washington,74,46,28,6.103918918918921,6.577826086956523
+DeepMind,85,42,43,6.076470588235294,6.793333333333335
+"Tsinghua University, Tsinghua University",104,37,67,5.386153846153846,6.360270270270271
+"University of Texas, Austin",80,37,43,5.845624999999999,6.589189189189187
+Tsinghua University,83,36,47,5.629397590361445,6.295277777777779
+University of Cambridge,76,36,40,6.002236842105261,6.664999999999998
+Princeton University,89,36,53,5.912696629213482,6.70972222222222
+University of Toronto,65,35,30,6.037076923076923,6.554571428571428
+University of Southern California,99,32,67,5.541010101010102,6.478125
+Google Brain,53,31,22,6.089056603773584,6.708387096774195
+Seoul National University,83,31,52,5.568313253012047,6.468387096774194
+"University of California, San Diego",59,28,31,5.716271186440677,6.247142857142857
+New York University,64,28,36,5.819218750000001,6.6292857142857144
+Duke University,69,28,41,5.585942028985507,6.389642857142857
+"University of Maryland, College Park",67,28,39,5.641940298507464,6.384285714285714
+Georgia Institute of Technology,81,28,53,5.691728395061728,6.369642857142858
+University College London,74,27,47,5.638648648648646,6.503703703703702
+"Department of Computer Science, University of Toronto",54,27,27,5.924074074074075,6.511851851851851
+"University of California, Los Angeles",78,26,52,5.630641025641027,6.445384615384615
+Peking University,134,26,108,5.283358208955221,6.621153846153845
+University of Michigan,50,25,25,5.8187999999999995,6.443199999999999
+Amazon,61,23,38,5.605409836065574,6.532608695652174
+International Business Machines,61,22,39,5.666885245901638,6.371818181818181
+University of Amsterdam,46,21,25,6.012826086956522,6.690476190476191
+"School of Computer Science, Carnegie Mellon University",39,21,18,5.764102564102564,6.621428571428572
+Rice University,50,21,29,5.854399999999999,6.658095238095238
+"Max Planck Institute for Intelligent Systems, Max-Planck Institute",36,19,17,5.708333333333334,6.465263157894737
+Johns Hopkins University,42,19,23,5.67404761904762,6.096315789473684
+Columbia University,61,18,43,5.531639344262297,6.361111111111111
+Harvard University,47,18,29,5.572340425531914,6.301111111111111
+University of Edinburgh,55,17,38,5.551818181818181,6.651176470588235
+Shanghai Jiao Tong University,84,16,68,5.4019047619047615,6.515625
+Purdue University,49,16,33,5.607755102040817,6.3999999999999995
+National University of Singapore,51,16,35,5.717647058823531,6.4775
+Microsoft Research,29,15,14,5.826896551724139,6.36
+NVIDIA,31,15,16,6.104193548387096,6.543333333333334
+The Chinese University of Hong Kong,30,15,15,5.801666666666667,6.522666666666667
+McGill University,52,15,37,5.335000000000002,6.632000000000001
+Australian National University,25,14,11,5.9239999999999995,6.589285714285714
+Cornell University,42,13,29,5.454523809523811,6.461538461538462
+"Department of Computer Science, University of Washington",17,13,4,6.157058823529412,6.461538461538462
+"University of Illinois, Urbana Champaign",61,13,48,5.447213114754098,6.417692307692308
+Rutgers University,32,13,19,5.765625,6.711538461538462
+University of Science and Technology of China,25,13,12,5.9803999999999995,6.539230769230769
+University of Tuebingen,32,12,20,5.890000000000001,6.8875
+Google Research,28,12,16,5.583214285714285,6.409166666666667
+UC Santa Barbara,16,12,4,5.87,6.201666666666667
+University of Technology Sydney,40,12,28,5.3180000000000005,6.338333333333334
+The University of Tokyo,32,12,20,5.684062500000001,6.710000000000001
+Google DeepMind,25,12,13,5.762399999999999,6.553333333333332
+Johannes Kepler University Linz,24,10,14,6.164583333333333,6.67
+Northeastern University,37,10,27,5.224324324324326,6.225
+Tencent AI Lab,16,10,6,5.70875,5.851000000000001
+Carnegie-Mellon University,24,10,14,5.50125,6.544999999999999
+Nanyang Technological University,48,10,38,5.649583333333333,7.117
+Technical University Munich,36,10,26,5.509444444444444,6.484999999999999
+University of California-Los Angeles,20,9,11,5.913500000000001,6.388888888888889
+"State University of New York, Buffalo",19,9,10,5.644210526315789,6.111111111111111
+University of Sydney,43,9,34,5.566511627906977,6.677777777777779
+Monash University,16,9,7,6.3374999999999995,6.934444444444444
+Bosch Center for Artificial Intelligence,11,9,2,6.22,6.472222222222222
+Yale University,27,9,18,5.510370370370371,6.577777777777778
+Imperial College London,45,9,36,4.966888888888889,6.220000000000001
+University of Central Florida,26,9,17,5.515769230769231,6.277777777777778
+Salesforce Research,28,9,19,5.488928571428572,6.040000000000001
+University of California-Berkeley,28,8,20,5.379285714285715,6.3225
+SUN YAT-SEN UNIVERSITY,24,8,16,5.520416666666667,6.28125
+University of British Columbia,26,8,18,5.611538461538462,6.09375
+"Technion, Technion",26,8,18,5.456153846153847,6.3975
+Texas A&M,25,8,17,5.776800000000001,6.45875
+"Computer Science Department, Stanford University",20,8,12,6.0775,6.75
+"Department of Computer Science, University of Maryland, College Park",19,8,11,5.575263157894736,6.1875
+Beihang University,13,8,5,6.077692307692308,6.6875
+Alibaba Group,36,8,28,5.388888888888889,5.9625
+RIKEN,17,7,10,5.735294117647059,6.545714285714285
+Samsung,16,7,9,4.915625,5.6642857142857155
+"Washington University, St. Louis",14,7,7,5.821428571428571,6.464285714285714
+Ohio State University,19,7,12,5.732631578947369,6.5
+"Montreal Institute for Learning Algorithms, University of Montreal, University of Montreal",19,7,12,5.476315789473684,6.589999999999999
+SalesForce.com,19,7,12,5.661578947368422,6.217142857142858
+"University of Washington, Seattle",20,7,13,5.6355,6.3999999999999995
+IDSIA,7,7,0,6.642857142857143,6.642857142857143
+Oregon State University,14,6,8,5.825714285714286,6.926666666666667
+Fudan University,20,6,14,5.4915,6.416666666666667
+Horizon Robotics,6,6,0,5.916666666666667,5.916666666666667
+TU Berlin,10,6,4,5.9239999999999995,6.664999999999999
+Facebook AI Research,27,6,21,5.656296296296297,6.416666666666667
+Brown University,12,6,6,5.805833333333333,7.028333333333333
+Toronto University,14,6,8,5.565714285714286,6.486666666666667
+Huawei Technologies Ltd.,43,6,37,4.8781395348837195,6.609999999999999
+KAUST,38,6,32,5.355,6.333333333333333
+Deepmind,11,6,5,5.69,6.611666666666667
+University of Pennsylvania,27,6,21,5.641851851851851,6.386666666666667
+California Institute of Technology,28,6,22,5.453214285714286,6.585
+Swiss Federal Institute of Technology Lausanne,27,6,21,5.399259259259259,5.833333333333333
+INRIA,13,5,8,5.288461538461538,6.15
+Boston University,11,5,6,5.493636363636363,6.62
+"Institute of automation, Chinese academy of science, Chinese Academy of Sciences",25,5,20,5.0216,5.5
+Polytechnique Montreal,9,5,4,5.561111111111112,6.1899999999999995
+Rensselaer Polytechnic Institute,18,5,13,5.477222222222222,6.35
+University of Chicago,20,5,15,5.596,6.684
+Singapore Management University,9,5,4,5.472222222222222,6.05
+Renmin University of China,15,5,10,5.194666666666666,6.086
+Bocconi University,5,5,0,6.0,6.0
+Intel,22,5,17,5.550909090909091,6.609999999999999
+Allen Institute for Artificial Intelligence,9,5,4,6.9911111111111115,7.95
+Electrical Engineering & Computer Science Department,9,4,5,5.953333333333333,6.4375
+Ecole polytechnique,9,4,5,5.377777777777777,6.5
+VinAI Research,4,4,0,6.3100000000000005,6.3100000000000005
+University of Electronic Science and Technology of China,6,4,2,5.888333333333333,6.145
+KU Leuven,12,4,8,5.41,6.355
+Arizona State University,20,4,16,5.314,5.92
+MIT-IBM Watson AI Lab,7,4,3,5.522857142857142,6.0825
+NAVER,8,4,4,5.75,6.0
+Bar Ilan University,8,4,4,5.81875,6.325
+Technion,12,4,8,5.340833333333333,6.0875
+Microsoft Research Asia,7,4,3,5.857142857142857,6.5625
+Skolkovo Institute of Science and Technology,6,4,2,6.1383333333333345,6.3725000000000005
+Max Planck Institute for Intelligent Systems,7,4,3,5.392857142857143,6.0625
+University of Surrey,11,4,7,5.822727272727274,6.51
+University of Waterloo,13,4,9,4.947692307692307,5.9375
+Tel Aviv University,17,4,13,5.819411764705883,6.5
+University of Utah,12,4,8,5.683333333333334,6.25
+Zhejiang University,40,4,36,5.037750000000001,6.6075
+Salesforce Research Asia,12,4,8,5.7491666666666665,6.3325
+Lawrence Livermore National Labs,5,4,1,7.24,7.5
+Yandex,9,4,5,5.834444444444445,6.7925
+"University of California, Irvine",11,4,7,5.97,6.8125
+"KTH Royal Institute of Technology, Stockholm, Sweden",14,3,11,5.315714285714286,6.583333333333333
+Dartmouth College,9,3,6,5.194444444444445,6.25
+IBM Research,8,3,5,5.635,6.166666666666667
+"University of California, Santa Cruz",8,3,5,5.355,6.446666666666666
+Sungkyunkwan University,6,3,3,5.541666666666667,5.916666666666667
+University of Bristol,12,3,9,5.7225,6.5
+The University of Hong Kong,18,3,15,5.458888888888889,6.3999999999999995
+Technical University of Denmark,4,3,1,5.5,5.75
+Tohoku University,4,3,1,5.6875,6.0
+University of Illinois at Urbana-Champaign,8,3,5,5.92875,6.31
+"State University of New York, Stony Brook",16,3,13,5.7025,6.833333333333333
+University of Texas at Austin,9,3,6,5.861111111111111,6.916666666666667
+"Robert Bosch GmbH, Bosch",7,3,4,6.131428571428572,6.416666666666667
+University of Macau,3,3,0,6.223333333333334,6.223333333333334
+UC Berkeley,6,3,3,5.875,6.333333333333333
+Ecole Normale Superieure,7,3,4,5.642857142857143,6.666666666666667
+Brandeis University,5,3,2,5.6,6.0
+Ryerson University,7,3,4,5.464285714285714,5.75
+Naver Labs Europe,5,3,2,5.784000000000001,6.890000000000001
+Baidu,26,3,23,4.8803846153846155,6.276666666666666
+Pennsylvania State University,16,3,13,5.2525,5.706666666666666
+"University of Illinois, Urbana-Champaign",11,3,8,5.545454545454546,6.359999999999999
+"University of Minnesota, Minneapolis",10,3,7,5.617,6.5
+The University of Melbourne,15,3,12,5.200666666666666,6.5
+Northwestern University,17,3,14,5.334705882352941,6.583333333333333
+Ecole Polytechnique de Montreal,8,3,5,5.4399999999999995,6.673333333333333
+North Carolina State University,20,3,17,5.3835,6.25
+Delft University of Technology,11,2,9,5.340909090909091,6.0
+University of Bonn,4,2,2,6.0625,6.835
+City University of Hong Kong,10,2,8,5.039999999999999,6.04
+University of California - Berkeley,9,2,7,5.556666666666667,6.3
+The University of Texas at Austin,4,2,2,6.0225,6.71
+Cornell University/Google Brain,2,2,0,6.375,6.375
+Hong Kong University of Science and Technology,7,2,5,5.142857142857143,6.375
+The Ohio State University,6,2,4,5.8066666666666675,6.67
+Indian Institute of Technology Delhi,3,2,1,5.666666666666667,6.0
+Snap Inc.,4,2,2,6.1875,7.0
+Université de Lille,3,2,1,5.75,6.5
+Michigan State University,23,2,21,4.760869565217392,7.0
+UCLA,5,2,3,6.184,6.46
+IST Austria,5,2,3,5.6819999999999995,6.5
+Bosch,12,2,10,5.125,6.0
+University of Alberta,20,2,18,5.335999999999999,7.0
+Nanjing University,26,2,24,4.83,5.54
+Lund University,2,2,0,6.5,6.5
+Lomonosov Moscow State University,5,2,3,5.4159999999999995,6.375
+Max-Planck Institute,3,2,1,5.416666666666667,5.75
+Facebook AI,3,2,1,6.3066666666666675,6.625
+"Bar Ilan University, Technion",5,2,3,5.7,6.25
+"Electrical Engineering & Computer Science Department, University of California Berkeley",4,2,2,6.3625,7.25
+Korea Advanced Institute of Science & Technology,8,2,6,5.6975,5.915
+"Centre for Integrative Neuroscience, AG Bethge",3,2,1,6.083333333333333,6.5
+Durham University,2,2,0,6.29,6.29
+Tianjin University,18,2,16,5.30388888888889,6.165
+Moscow Institute of Physics and Technology,9,2,7,5.275555555555554,6.625
+Università degli Studi di Verona,2,2,0,6.33,6.33
+HEC Montreal,8,2,6,5.75,6.54
+Adobe Systems,11,2,9,5.386363636363637,5.875
+"Department of Computer Science, University of Oxford",8,2,6,5.335,5.8
+"Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Chinese Academy of Sciences",3,2,1,5.609999999999999,5.665
+Universität Freiburg,15,2,13,5.180000000000001,5.5
+Kwai Inc.,5,2,3,6.15,6.75
+University of Szeged,2,2,0,6.25,6.25
+Criteo,5,2,3,5.35,6.625
+Saarland University,4,2,2,5.75,6.125
+LIP6,3,2,1,6.0,6.75
+Karlsruhe Institute of Technology,2,2,0,6.25,6.25
+"University of Massachusetts, Amherst",6,2,4,5.791666666666667,6.625
+Chinese Academy of Sciences,2,2,0,6.29,6.29
+Virginia Tech,5,2,3,5.366,6.5
+University of Stuttgart,3,2,1,5.72,6.33
+Inception Institute of Artificial Intelligence,5,2,3,5.85,6.04
+Bielefeld University,7,2,5,4.785714285714286,6.0
+University of Copenhagen,13,2,11,5.353076923076923,6.25
+Yonsei University,9,2,7,5.861111111111111,6.125
+University of Wisconsin-Madison,4,2,2,5.65,6.425
+Ludwig Maximilian University of Munich,2,2,0,5.725,5.725
+"University of Wisconsin, Madison",27,2,25,5.027777777777778,5.875
+"ISIR, UMR 7222",4,2,2,5.27,5.75
+"Department of Computer Science, Princeton University",4,2,2,6.105,6.71
+A*STAR,2,2,0,7.0,7.0
+Czech Technical University in Prague,2,2,0,5.67,5.67
+Bosch Center for AI,3,2,1,5.916666666666667,6.5
+Deakin University,7,2,5,5.821428571428571,7.0
+Queensland University of Technology,2,2,0,6.0,6.0
+Iowa State University,6,2,4,5.59,6.335
+National Taiwan University,10,2,8,4.789,6.2
+Heidelberg University,7,2,5,5.892857142857143,5.75
+"Google Research, Brain Team",2,2,0,6.25,6.25
+Aalto University,4,2,2,6.0,6.5
+SenseTime,3,2,1,6.083333333333333,6.625
+"Noah's Ark Lab, Huawei Technologies Ltd.",1,1,0,6.67,6.67
+University of Queensland,1,1,0,6.0,6.0
+"Beijing University of Post and Telecommunication, Tsinghua University",7,1,6,4.5928571428571425,6.0
+"CMU, Carnegie Mellon University",10,1,9,5.178,6.75
+University of Colorado at Boulder,5,1,4,5.184,6.5
+King's College London,2,1,1,6.125,6.75
+"Department of Computer Science, University of Illinois, Urbana Champaign",2,1,1,5.5,6.0
+"Department of Computer Science, University of Massachusetts, Amherst",8,1,7,5.03125,6.25
+VW Group,1,1,0,6.25,6.25
+Uber,3,1,2,6.0,6.25
+"Data Lab, Volkswagen Group",1,1,0,6.25,6.25
+"Machine Learning Research Lab, Volkswagen Group",1,1,0,6.25,6.25
+"Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University",1,1,0,6.33,6.33
+University of Tokyo,4,1,3,5.4375,5.5
+University of Siegen,1,1,0,6.25,6.25
+Hebrew University of Jerusalem,11,1,10,5.628181818181818,6.0
+Huawei Noah‘s Ark Lab,2,1,1,5.875,6.0
+Pennsylvania State Univ University Park,2,1,1,4.585,4.67
+Sorbonne Université,3,1,2,5.11,5.75
+", Max Planck Institute for Intelligent Systems",2,1,1,5.54,5.75
+"MIT-IBM Watson AI Lab, IBM Research",2,1,1,4.875,6.0
+EPFL,8,1,7,5.5,6.0
+Simon Fraser University,4,1,3,6.0325,5.8
+The Hong Kong University of Science and Technology,16,1,15,5.375,6.25
+University of Mainz,1,1,0,6.25,6.25
+"University of North Carolina, Chapel Hill",8,1,7,5.1975,6.25
+Facebook AI Research (FAIR),10,1,9,5.157,6.33
+University of North Carolina,2,1,1,5.375,6.25
+Zaheer,3,1,2,5.583333333333333,6.0
+"Indian Institute of Technology Delhi, Dhirubhai Ambani Institute Of Information and Communication Technology",2,1,1,5.875,5.75
+University of Ottawa,1,1,0,6.25,6.25
+IIT Kanpur,4,1,3,5.75,5.75
+George Mason University,2,1,1,5.625,6.0
+JD AI Research,5,1,4,5.3340000000000005,5.67
+Memorial Sloan Kettering Cancer Center,2,1,1,5.335,6.0
+Samsung AI Center,1,1,0,5.6,5.6
+Royal Melbourne Institute of Technology,1,1,0,6.5,6.5
+"Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences",1,1,0,6.0,6.0
+Korea University,1,1,0,6.5,6.5
+Microsoft Research Cambridge,3,1,2,5.666666666666667,6.0
+Hitachi Ltd. R&D group,1,1,0,6.67,6.67
+Google/DeepMind,3,1,2,5.28,6.5
+SequeL Inria / Univ. Lille,1,1,0,6.33,6.33
+US Naval Academy,2,1,1,6.125,6.25
+"Institute for Interdisciplinary Information Sciences, Tsinghua University",3,1,2,5.533333333333334,6.6
+Indian Institute of Technology (ISM) Dhanbad,1,1,0,6.5,6.5
+Univ. of Illinois at Urbana-Champaign,6,1,5,4.93,6.33
+The University of Sydney,3,1,2,5.473333333333334,5.75
+Microsoft Research New England,1,1,0,6.0,6.0
+Inria,4,1,3,4.4775,5.75
+Samsung AI Center Cambridge,1,1,0,5.5,5.5
+Queen Mary University London,1,1,0,5.5,5.5
+University of California-Irvine,4,1,3,6.02,6.25
+Hikvision Research Institute,1,1,0,5.5,5.5
+University of Virginia,11,1,10,5.461818181818182,6.5
+Kyushu University,2,1,1,5.25,6.5
+POSTECH,17,1,16,5.263529411764705,6.33
+Institut für Informatik,1,1,0,5.2,5.2
+"The Chinese University of Hong Kong, Shenzhen",4,1,3,5.0625,6.0
+University of California - San Diego,2,1,1,6.05,6.5
+"Donald Bren School of Information and Computer Sciences, University of California, Irvine",5,1,4,5.35,6.75
+"The University of Tokyo, Tokyo Institute of Technology",3,1,2,4.666666666666667,5.5
+"Institute of Computing Technology, Chinese Academy of Sciences",3,1,2,4.31,5.33
+Faculty,6,1,5,5.498333333333334,7.0
+MLIA,1,1,0,6.33,6.33
+Ulm University,3,1,2,5.466666666666666,7.4
+"Sorbonne Universite, Criteo AI Lab",1,1,0,6.33,6.33
+Institute of Science and Technology Austria,5,1,4,5.531999999999999,6.5
+Ecole Polytechnique,2,1,1,5.0,5.5
+German Research Center for Artificial Intelligence,1,1,0,6.25,6.25
+University of Glasgow,1,1,0,7.0,7.0
+Intel AI Lab,2,1,1,5.925,6.25
+Royal Caliber,2,1,1,6.5,7.0
+Lehigh University,2,1,1,5.625,6.0
+Uppsala University,2,1,1,5.75,6.75
+"Washington State University, Pullman",1,1,0,7.0,7.0
+Adobe Research,6,1,5,5.484999999999999,5.75
+HKBU,3,1,2,5.56,6.75
+RIKEN Center for Advanced Intelligence Project,8,1,7,5.25875,6.5
+Mila,5,1,4,5.2,6.75
+Sensetime,1,1,0,7.0,7.0
+Element AI,3,1,2,5.666666666666667,6.5
+InterDigital,1,1,0,5.75,5.75
+Université de Rouen,1,1,0,7.0,7.0
+Computer Laboratory,2,1,1,5.665,6.33
+"Institue for Advanced Study, Princeton",1,1,0,7.0,7.0
+University of Geneva,2,1,1,4.5,6.0
+University of Massachusetts Amherst,2,1,1,6.0,6.0
+Bosch Center Artificial Intelligence,3,1,2,5.390000000000001,6.5
+Chemnitz University of Technology,1,1,0,7.0,7.0
+"College of Computing, Georgia Institute of Technology",16,1,15,5.510625,6.5
+"University of Electronic Science and Technology of China, Tsinghua University",3,1,2,5.359999999999999,6.33
+Vrije Universiteit Amsterdam,2,1,1,5.75,6.75
+", University of California, Los Angeles",3,1,2,5.890000000000001,6.75
+"Graduate School at Shenzhen, Tsinghua University",1,1,0,6.0,6.0
+NEC Laboratories America,2,1,1,5.5,6.75
+"Tübingen AI Center, University of Tübingen",2,1,1,5.875,6.5
+Università della Svizzera Italiana,1,1,0,5.75,5.75
+Amazon Alexa AI,1,1,0,6.75,6.75
+"Max-Planck-Institute for Intelligent Systems, Max-Planck Institute",1,1,0,5.75,5.75
+Xidian University,9,1,8,5.021111111111112,6.75
+Dalle Molle Institute for Artificial Intelligence Research (IDSIA),1,1,0,6.5,6.5
+sensetime,1,1,0,5.33,5.33
+MILA/McGill University,1,1,0,6.8,6.8
+Allen Institute for AI,1,1,0,6.75,6.75
+Chinese University of Hong Kong,3,1,2,5.416666666666667,6.0
+SenseTime Group Ltd,1,1,0,6.0,6.0
+"University of Oxford, University of Oxford",5,1,4,5.234,6.0
+"University of California, San Diego, University of California, San Diego",3,1,2,5.473333333333334,6.67
+Tencent Jarvis Lab,1,1,0,7.33,7.33
+Aix Marseille Université,0,0,0,0.0,0.0
+Indiana University Purdue University Indianapolis,0,0,0,0.0,0.0
+"Indian Institute of Technology, Hyderabad",0,0,0,0.0,0.0
+Chung-Ang University,0,0,0,0.0,0.0
+"College of Information and Computer Science, University of Massachusetts, Amherst",0,0,0,0.0,0.0
+GIPSA LAB,0,0,0,0.0,0.0
+Indiana University - Purdue University Indianapolis,0,0,0,0.0,0.0
+INP Grenoble,0,0,0,0.0,0.0
+Lingnan University,0,0,0,0.0,0.0
+Atos,0,0,0,0.0,0.0
+Drexel University,0,0,0,0.0,0.0
+Adobe,1,0,1,4.75,0.0
+University Jean Monnet,1,0,1,4.5,0.0
+Qualcomm,0,0,0,0.0,0.0
+Kent State University,0,0,0,0.0,0.0
+"Delhi Technological University (Delhi College of Engineering), Dhirubhai Ambani Institute Of Information and Communication Technology",1,0,1,4.75,0.0
+University of Applied Sciences Fulda,1,0,1,3.0,0.0
+Tufts University,1,0,1,4.5,0.0
+ChungAng University,0,0,0,0.0,0.0
+Aix Marseille Univ,1,0,1,5.0,0.0
+Hanoi University of Science and Technology,1,0,1,4.75,0.0
+Robust Intelligence,1,0,1,4.5,0.0
+"Preferred Networks, Inc.",9,0,9,4.997777777777777,0.0
+University of Toulon,0,0,0,0.0,0.0
+Swansea University,0,0,0,0.0,0.0
+Aalborg University,1,0,1,5.0,0.0
+LIS / Ecole Centrale Marseille,0,0,0,0.0,0.0
+Hugging Face,0,0,0,0.0,0.0
+Aix Marseille University,0,0,0,0.0,0.0
+Harbin Institute of Technonolgy,0,0,0,0.0,0.0
+"IBM, International Business Machines",1,0,1,4.25,0.0
+HAW Fulda,1,0,1,3.0,0.0
+National Tsing Hua University,2,0,2,5.0,0.0
+Department of Biology/Department of Computer Science,0,0,0,0.0,0.0
+Williams College,0,0,0,0.0,0.0
+Mathematical Modeling of Biological Systems Institute,0,0,0,0.0,0.0
+Mathematical Modeling for Biological Systems,0,0,0,0.0,0.0
+"VinAI Research, Vietnam",1,0,1,4.75,0.0
+Auburn University,1,0,1,5.0,0.0
+AMU,0,0,0,0.0,0.0
+UT Austin,1,0,1,4.75,0.0
+Harbin University Of Science And Technology,0,0,0,0.0,0.0
+"State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences",0,0,0,0.0,0.0
+Università di Firenze,0,0,0,0.0,0.0
+YiTu Technology co. ltd,0,0,0,0.0,0.0
+Ruhr-Universtät Bochum,2,0,2,4.8,0.0
+Didi AI Labs,0,0,0,0.0,0.0
+"Department of Computer Science, Cornell University",1,0,1,3.6,0.0
+Phyisk,0,0,0,0.0,0.0
+Ruhr-University Bochum,1,0,1,4.5,0.0
+Google Deepmind,0,0,0,0.0,0.0
+WeBank,0,0,0,0.0,0.0
+WeBank AI Lab,0,0,0,0.0,0.0
+"WeBank Co., Ltd. AI Department",1,0,1,2.8,0.0
+Department of Computer Science and Engineering,0,0,0,0.0,0.0
+Michigan Technological University,2,0,2,5.125,0.0
+Stevens Institute of Technology,3,0,3,4.166666666666667,0.0
+Université de Sherbrooke,2,0,2,5.0,0.0
+"Computer Science Department, Brown University",0,0,0,0.0,0.0
+Toyota Technnological Institute,0,0,0,0.0,0.0
+George Washington University,1,0,1,3.0,0.0
+"University of Montreal, University of Montreal",0,0,0,0.0,0.0
+"Saarland Informatics Campus, Max-Planck Institute",1,0,1,5.25,0.0
+interdisciplinary center herzliya,0,0,0,0.0,0.0
+University of Minnesota - Twin Cities,0,0,0,0.0,0.0
+Bosch Research,0,0,0,0.0,0.0
+Hasso Plattner Institute,0,0,0,0.0,0.0
+Hamad Bin Khalifa University,0,0,0,0.0,0.0
+"Department of Computer Science, Duke University",0,0,0,0.0,0.0
+Northestern University of China,0,0,0,0.0,0.0
+Politecnico di Milano,0,0,0,0.0,0.0
+Texas A&M Engineering Experiment Station,0,0,0,0.0,0.0
+Mitsubishi Electric Research Labs,1,0,1,4.75,0.0
+SenseTime LTD,0,0,0,0.0,0.0
+J.P. Morgan Chase,1,0,1,4.75,0.0
+Sapienza University of Rome,6,0,6,3.766666666666667,0.0
+Flatiron Institute,0,0,0,0.0,0.0
+Shanghai University,0,0,0,0.0,0.0
+NNAISENSE,1,0,1,5.0,0.0
+Sony AI,1,0,1,5.0,0.0
+"KAIST, Korea Advanced Institute of Science and Technology",0,0,0,0.0,0.0
+GuangDong Cardiovascular Institute,0,0,0,0.0,0.0
+"Academy of Mathematics and Systems Science, Chinese Academy of Sciences",0,0,0,0.0,0.0
+"The Graduate Center, CUNY",0,0,0,0.0,0.0
+Universidade Federal de Minas Gerais,0,0,0,0.0,0.0
+Fraunhofer IIS,0,0,0,0.0,0.0
+"Universidade Federal de Minas Gerais, Universidade Federal de Minas Gerais",0,0,0,0.0,0.0
+"Incheon National University, South Korea",0,0,0,0.0,0.0
+Zhongnan University of Ecomomics and Law,1,0,1,5.33,0.0
+"University of Texas, Arlington",1,0,1,4.0,0.0
+University of Iowa,7,0,7,5.1899999999999995,0.0
+DeePathology,0,0,0,0.0,0.0
+"Electrical Engineering & Computer Science, Massachusetts Institute of Technology",3,0,3,4.666666666666667,0.0
+Institut Supérieur de l'Aéronautique et de l'Espace,1,0,1,5.0,0.0
+"Xi'an Jiaotong University,",0,0,0,0.0,0.0
+Friedrich-Alexander Universität Erlangen-Nürnberg,0,0,0,0.0,0.0
+DeepMind/Google,0,0,0,0.0,0.0
+Guangdong Provincal People's Hospital,0,0,0,0.0,0.0
+University of Denver,0,0,0,0.0,0.0
+"Soochow University, China",0,0,0,0.0,0.0
+Agency for Defense Development,0,0,0,0.0,0.0
+"Southwest University, China",0,0,0,0.0,0.0
+VUNO Inc.,0,0,0,0.0,0.0
+Kangwon National University,0,0,0,0.0,0.0
+VUNO inc.,0,0,0,0.0,0.0
+"Nanyang Technological University, Singapore",0,0,0,0.0,0.0
+Bar-Ilan University,5,0,5,4.93,0.0
+"Universite Laval, Laval university",0,0,0,0.0,0.0
+"Department of Computer Science, University of Pittsburgh",0,0,0,0.0,0.0
+Sogang University,0,0,0,0.0,0.0
+Naver Labs,0,0,0,0.0,0.0
+Sony,1,0,1,5.0,0.0
+University of Vienna,3,0,3,4.5,0.0
+Memorial Sloan Kettering Cancer Centre,0,0,0,0.0,0.0
+University of Wisconsin - Madison,1,0,1,4.75,0.0
+"Institute of physics, Chinese academy of sciences",0,0,0,0.0,0.0
+Southern University of Science and Technology of China,0,0,0,0.0,0.0
+"Université Pierre et Marie Curie - Paris 6, Computer Science Lab  - Pierre and Marie Curie University, Paris, France",1,0,1,4.33,0.0
+InstaDeep,4,0,4,3.915,0.0
+BMSTU,0,0,0,0.0,0.0
+International Computer Science Institute,0,0,0,0.0,0.0
+"Department of computer science and informational engineering, National Taiwan University",3,0,3,4.583333333333333,0.0
+Insight Centre for Data Analytics,2,0,2,4.0,0.0
+Mila - Université de Montréal,1,0,1,5.0,0.0
+Facebook A.I. Research,1,0,1,4.25,0.0
+Sberbank,0,0,0,0.0,0.0
+Honda Research Institute US,0,0,0,0.0,0.0
+FiveAI,0,0,0,0.0,0.0
+"IIS, Academia Sinica",0,0,0,0.0,0.0
+"Zhejiang University, Tsinghua University",2,0,2,4.25,0.0
+Indian Institute of Technology Hyderabad (IITH),0,0,0,0.0,0.0
+American University of Beirut,0,0,0,0.0,0.0
+SenseTime Research Institute,0,0,0,0.0,0.0
+University of Latvia,0,0,0,0.0,0.0
+NASA Ames Research Center,0,0,0,0.0,0.0
+University of Maryland - College Park,0,0,0,0.0,0.0
+"Institute of Information Engineering, CAS",0,0,0,0.0,0.0
+"The University of Sydney, University of Sydney",0,0,0,0.0,0.0
+The University of Adelaide,8,0,8,4.3425,0.0
+University of Adelaide,0,0,0,0.0,0.0
+"China Southern Power Grid Digital Power Grid Research Institute Co., Ltd",0,0,0,0.0,0.0
+ATR,0,0,0,0.0,0.0
+Department of Computer Science,1,0,1,4.5,0.0
+Chonbuk National University,0,0,0,0.0,0.0
+Washington University in St. Louis,0,0,0,0.0,0.0
+"LIRIS, CNRS",1,0,1,4.33,0.0
+Samsung Research,5,0,5,5.05,0.0
+INSA de Lyon,0,0,0,0.0,0.0
+University of Bologna,1,0,1,5.0,0.0
+SenseTime Research,1,0,1,4.0,0.0
+ISI Foundation,0,0,0,0.0,0.0
+Ecoles des Mines,0,0,0,0.0,0.0
+Worcester Polytechnic Institute,4,0,4,4.7075,0.0
+CISPA Helmholtz Center for Information Security,0,0,0,0.0,0.0
+The CISPA Helmholtz Center for Information Security,0,0,0,0.0,0.0
+AIST,0,0,0,0.0,0.0
+"Kyushu Institute of Technology, Japan",0,0,0,0.0,0.0
+Nazarbayev University,0,0,0,0.0,0.0
+", University of Alberta",0,0,0,0.0,0.0
+"Department of Computer Science, University of Rochester",0,0,0,0.0,0.0
+Academia Sinica,4,0,4,4.6,0.0
+Technical University of Munich,0,0,0,0.0,0.0
+Koc University,2,0,2,5.25,0.0
+"Aalborg University, Aalborg University",0,0,0,0.0,0.0
+Gwangju Institute of Science and Technology,5,0,5,5.358,0.0
+"Huazhong University of Science and Technology, Tsinghua University",2,0,2,3.835,0.0
+Allen Institute for Brain Science,0,0,0,0.0,0.0
+IQVIA,0,0,0,0.0,0.0
+Baidu Research,3,0,3,4.723333333333334,0.0
+"National University of Defense Technology, Tsinghua University",2,0,2,4.5,0.0
+National University of Defense Technology,3,0,3,5.233333333333333,0.0
+Heriot-Watt University,2,0,2,4.75,0.0
+Eurecom,2,0,2,4.25,0.0
+Chair of Information-oriented Control,0,0,0,0.0,0.0
+Warsaw University of Technology,0,0,0,0.0,0.0
+"Department of Mechanical and Industrial Engineering, University of Toronto, Toronto University",0,0,0,0.0,0.0
+Allen Institute,0,0,0,0.0,0.0
+Warsaw School of Technology,0,0,0,0.0,0.0
+Barcelona Supercomputing Center,0,0,0,0.0,0.0
+Siemens Corporate Research,1,0,1,5.5,0.0
+Amazon AI Research Lab,1,0,1,4.75,0.0
+NYU Shanghai,0,0,0,0.0,0.0
+Sensetime Research,0,0,0,0.0,0.0
+Univerity of Latvia,0,0,0,0.0,0.0
+Huawei Technologies R&D (UK) Ltd.,1,0,1,5.0,0.0
+University of Grenoble-Alpes,1,0,1,5.5,0.0
+Universitat de Barcelona,1,0,1,5.2,0.0
+PAG investment solutions,0,0,0,0.0,0.0
+"University of Cambridge & MPI for Intelligent Systems, Tübingen",0,0,0,0.0,0.0
+"National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Science",0,0,0,0.0,0.0
+University of Auckland,1,0,1,5.5,0.0
+Facebook AI (FAIR),0,0,0,0.0,0.0
+Swiss Federal Institute of Technology (ETH Zurich),0,0,0,0.0,0.0
+Pontificia Universidad Catolica de Chile,0,0,0,0.0,0.0
+University of Southampton,5,0,5,5.15,0.0
+Toyota Research Institute,0,0,0,0.0,0.0
+Kavli IPMU,0,0,0,0.0,0.0
+Universidad Técnica Federico Santa María,0,0,0,0.0,0.0
+National and Kapodistrian University of Athens,0,0,0,0.0,0.0
+Helmholtz AI,0,0,0,0.0,0.0
+Universidad Católica de Chile,0,0,0,0.0,0.0
+Universitat Pompeu Fabra,1,0,1,4.25,0.0
+Lenovo Research,0,0,0,0.0,0.0
+Yahoo! Research,0,0,0,0.0,0.0
+University of Haifa,0,0,0,0.0,0.0
+"Institute of automation, Chinese academy of sciences",0,0,0,0.0,0.0
+The University of Haifa,0,0,0,0.0,0.0
+Universite de Lorraine,0,0,0,0.0,0.0
+Shanghai University of Finance and Economics,4,0,4,5.0625,0.0
+Vector Institute,1,0,1,4.75,0.0
+Sony Europe Ltd.,0,0,0,0.0,0.0
+Intel Labs,3,0,3,4.416666666666667,0.0
+SAP AI Research,0,0,0,0.0,0.0
+Pengcheng Laboratory,0,0,0,0.0,0.0
+Samsung advanced institute of technology,0,0,0,0.0,0.0
+"WeBank Co., Ltd.",0,0,0,0.0,0.0
+Peking University Shenzhen Graduate School,0,0,0,0.0,0.0
+"Yonsei University, Seoul",0,0,0,0.0,0.0
+University of Arizona,0,0,0,0.0,0.0
+Singapore University of Technology and Design,10,0,10,4.744000000000001,0.0
+Electronic and Engineering,0,0,0,0.0,0.0
+University of Texas at Dallas,0,0,0,0.0,0.0
+IRISA,0,0,0,0.0,0.0
+"Université Saint-Etienne, Laboratoire Hubert Curien",0,0,0,0.0,0.0
+"CyberAgent, Inc.",0,0,0,0.0,0.0
+Brigham Young University,0,0,0,0.0,0.0
+Beijing University of Posts and Telecommunications,1,0,1,3.5,0.0
+Samya,0,0,0,0.0,0.0
+International Research Europe,0,0,0,0.0,0.0
+"Saarland University, Saarland University",1,0,1,4.0,0.0
+"Tel Aviv University, Tel Aviv University",0,0,0,0.0,0.0
+Laboratoire de Linguistique Formelle,0,0,0,0.0,0.0
+Rakuten Institute of Technology,0,0,0,0.0,0.0
+University of Jinan,0,0,0,0.0,0.0
+CHONNAM NATIONAL UNIVERSITY,0,0,0,0.0,0.0
+National Advanced School of Engineering Yaounde,0,0,0,0.0,0.0
+Ecole Nationale Supérieure Polytechnique de Yaoundé,0,0,0,0.0,0.0
+Missouri University of Science and Technology,0,0,0,0.0,0.0
+University of Missouri-Kansas City,0,0,0,0.0,0.0
+Jacobs University Bremen,0,0,0,0.0,0.0
+Beijing University of Chemical Technology,0,0,0,0.0,0.0
+"Harbin Institute of Technology, Shenzhen",1,0,1,4.0,0.0
+National Institute of Information and Communications Technology (NICT),0,0,0,0.0,0.0
+"National Institute of Information and Communications Technology (NICT), National Institute of Advanced Industrial Science and Technology",0,0,0,0.0,0.0
+"Nanjing University, China",0,0,0,0.0,0.0
+Association for the Advancement of Artificial Intelligence,0,0,0,0.0,0.0
+Bauman Moscow State Technical University,0,0,0,0.0,0.0
+MoneyBrain Inc.,1,0,1,4.0,0.0
+"Computer Science Lab  - Pierre and Marie Curie University, Paris, France",0,0,0,0.0,0.0
+École des Ponts,0,0,0,0.0,0.0
+ABB Future Labs,0,0,0,0.0,0.0
+Huzhou University,0,0,0,0.0,0.0
+"Cerebras Systems, Inc",2,0,2,3.125,0.0
+Shahid Beheshti University,0,0,0,0.0,0.0
+China Mobile research institute,0,0,0,0.0,0.0
+Brock University,0,0,0,0.0,0.0
+Tokyo Institute of Technology,1,0,1,3.75,0.0
+Helmholtz-Zentrum Geesthacht,1,0,1,4.25,0.0
+Industrial Light & Magic,0,0,0,0.0,0.0
+CPE Lyon,0,0,0,0.0,0.0
+"University of Texas, El Paso",0,0,0,0.0,0.0
+University of Texas at El Paso,0,0,0,0.0,0.0
+Visium,0,0,0,0.0,0.0
+"Weixin Group, Tencent",0,0,0,0.0,0.0
+The Institute of Statistical Mathematics,0,0,0,0.0,0.0
+The Institute of Statistical Mathematics / Preferred Networks Inc.,0,0,0,0.0,0.0
+Auckland University of Technology,0,0,0,0.0,0.0
+University of California-San Francisco,0,0,0,0.0,0.0
+"Charité - Universitätsmedizin Berlin, Germany",0,0,0,0.0,0.0
+SenseTime Group,0,0,0,0.0,0.0
+Alikhanyan National Laboratory,0,0,0,0.0,0.0
+Hamburg University of Technology,0,0,0,0.0,0.0
+"School of Computer Science, Tel Aviv University",0,0,0,0.0,0.0
+Sambanova Systems Inc.,0,0,0,0.0,0.0
+SambaNova Systems,0,0,0,0.0,0.0
+École normale superieure,0,0,0,0.0,0.0
+"School of Computing, National University of Singapore",0,0,0,0.0,0.0
+antgroup,0,0,0,0.0,0.0
+Data for Progress,0,0,0,0.0,0.0
+The Lawrenceville School,0,0,0,0.0,0.0
+", University of British Columbia",0,0,0,0.0,0.0
+Otto Friedrich University Bamberg,0,0,0,0.0,0.0
+Dublin City University,2,0,2,4.0,0.0
+"State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University",0,0,0,0.0,0.0
+"Indiana University, School of Medicine",0,0,0,0.0,0.0
+ByteDance Inc.,1,0,1,4.0,0.0
+Beijing jiaotong univercity,1,0,1,3.75,0.0
+Beijing jiaotong university,0,0,0,0.0,0.0
+Intento,0,0,0,0.0,0.0
+University of Ostrava,1,0,1,3.0,0.0
+"Renmin University of China, Tsinghua University",0,0,0,0.0,0.0
+ART,0,0,0,0.0,0.0
+University of Bordeaux,0,0,0,0.0,0.0
+Indian Institute of Technology Tirupati,0,0,0,0.0,0.0
+"Indian institute of technology, tirupati",0,0,0,0.0,0.0
+University of Georgia,1,0,1,3.25,0.0
+Vrije Universiteit Brussel,3,0,3,3.25,0.0
+Global University,0,0,0,0.0,0.0
+Wayne State University,1,0,1,3.25,0.0
+Shandong University of Science and Technology,0,0,0,0.0,0.0
+TOTAL SA & CRISTAL,0,0,0,0.0,0.0
+"Southeast University, Tsinghua University",0,0,0,0.0,0.0
+Konkuk University,0,0,0,0.0,0.0
+DSO National Laboratories,1,0,1,3.0,0.0
+"Institute of Computing Technology, Chinese Academy of Sciences, China",0,0,0,0.0,0.0
+Institute of Marine Research,0,0,0,0.0,0.0
+Jilin University,0,0,0,0.0,0.0
+Fordham University,0,0,0,0.0,0.0
+Pacific Northwest National Laboratory,1,0,1,3.0,0.0
+Pingan Technology,2,0,2,2.625,0.0
+tes,1,0,1,2.25,0.0
+PAII Inc.,1,0,1,2.25,0.0
+Pingan Group,1,0,1,2.25,0.0
+AInnovation,0,0,0,0.0,0.0
+AInnocation,0,0,0,0.0,0.0
+"National Institute of Technology, Trichy",0,0,0,0.0,0.0
+"Bielefeld University, CITEC",0,0,0,0.0,0.0
+Perm National Research Polytechnic University,0,0,0,0.0,0.0
+Shenyang Aerospace University,0,0,0,0.0,0.0
+Sharif University of Technology,2,0,2,3.5,0.0
+"School of Computer Science and Cyberspace Security, Hainan University",0,0,0,0.0,0.0
+IIT Kharagpur,0,0,0,0.0,0.0
+"Lanzhou University,",1,0,1,3.25,0.0
+University of Osnabrück,0,0,0,0.0,0.0
+École de technologie supérieure,3,0,3,3.75,0.0
+Universidad Nacional de Córdoba,0,0,0,0.0,0.0
+Comcast AI research,0,0,0,0.0,0.0
+Pingan P&C insurance,1,0,1,3.75,0.0
+ping an property & casualty insurance,0,0,0,0.0,0.0
+"Beijing University of Posts and Telecommunications, P.R. China",0,0,0,0.0,0.0
+Southwest Jiaotong University,0,0,0,0.0,0.0
+Max Planck for Physics,0,0,0,0.0,0.0
+"Universidade Federal de Pernambuco, Federal University of Pernambuco",0,0,0,0.0,0.0
+DENSO CORPORATION,0,0,0,0.0,0.0
+Xi‘an University of Technology,0,0,0,0.0,0.0
+Ewha Womans University,2,0,2,3.67,0.0
+National Technical University of Athens,0,0,0,0.0,0.0
+Zhejiang University of Science and Technology,0,0,0,0.0,0.0
+"Guangzhou University, China, Tsinghua University",0,0,0,0.0,0.0
+"Tongji University, Tsinghua University",0,0,0,0.0,0.0
+Jagiellonian University,0,0,0,0.0,0.0
+CNR,0,0,0,0.0,0.0
+African Masters of Machine Intelligence,0,0,0,0.0,0.0
+KIIT  University,0,0,0,0.0,0.0
+HIT,0,0,0,0.0,0.0
+Stellenbosch University,2,0,2,3.5,0.0
+National Taiwan Normal Unversity,0,0,0,0.0,0.0
+National Taiwan Normal University,0,0,0,0.0,0.0
+IIT Gandhinagar,1,0,1,3.5,0.0
+Louisiana State University,0,0,0,0.0,0.0
+University of Sheffield,0,0,0,0.0,0.0
+University of Manchester,1,0,1,4.0,0.0
+University of New Mexico,0,0,0,0.0,0.0
+Finnish Environment Institute,0,0,0,0.0,0.0
+Aarhus University,3,0,3,4.416666666666667,0.0
+Quantib,0,0,0,0.0,0.0
+University Medical Center Utrecht,0,0,0,0.0,0.0
+Utrecht University,0,0,0,0.0,0.0
+Quantib BV,0,0,0,0.0,0.0
+"University of North Texas, Denton",0,0,0,0.0,0.0
+American Family Insurance,0,0,0,0.0,0.0
+Bosch research,0,0,0,0.0,0.0
+Swarthmore College,1,0,1,4.25,0.0
+"School of Informatics, University of Edinburgh",0,0,0,0.0,0.0
+RIKEN AIP,0,0,0,0.0,0.0
+Hedge fund,0,0,0,0.0,0.0
+Max Planck Institute,0,0,0,0.0,0.0
+AI Sweden,1,0,1,3.75,0.0
+"University of Colorado, Denver",1,0,1,4.75,0.0
+"Nanjing University, Tsinghua University",0,0,0,0.0,0.0
+Kaspersky,0,0,0,0.0,0.0
+Higher School of Economics,1,0,1,3.75,0.0
+TU Munich,1,0,1,3.67,0.0
+Universität Bremen,0,0,0,0.0,0.0
+"L3S Research Center Hannover, Germany",0,0,0,0.0,0.0
+Western Norway University of Applied Sciences,1,0,1,4.67,0.0
+Valeo,2,0,2,4.67,0.0
+Amazon AWS AI,0,0,0,0.0,0.0
+University of Potsdam,1,0,1,4.67,0.0
+Lancaster University,1,0,1,4.67,0.0
+Automunge Inc.,1,0,1,2.5,0.0
+Colorado State University,2,0,2,4.54,0.0
+ifA | Automatic Control Laboratory | ETH Zurich,0,0,0,0.0,0.0
+"Institute of Engineering, Thapathali campus",0,0,0,0.0,0.0
+School of Mathematical Sciences,0,0,0,0.0,0.0
+KTH Royal Institute of Technology,0,0,0,0.0,0.0
+Bytedance AI Lab,0,0,0,0.0,0.0
+Didi Research,0,0,0,0.0,0.0
+University of Pisa,0,0,0,0.0,0.0
+University of Wisconsin-Whitewater,0,0,0,0.0,0.0
+University of Louisiana at Lafayette,0,0,0,0.0,0.0
+University of Louisiana - Lafayette,0,0,0,0.0,0.0
+"APEX Lab, Shanghai Jiao Tong University",0,0,0,0.0,0.0
+"University of Munich, Institut für Physik",0,0,0,0.0,0.0
+LMU Munich,0,0,0,0.0,0.0
+4Paradigm Inc.,2,0,2,4.5,0.0
+Indian Institute of  Technology (IIT) Delhi,0,0,0,0.0,0.0
+Hacettepe University,0,0,0,0.0,0.0
+"Shanghai Jiao Tong University,",0,0,0,0.0,0.0
+University of Oregon Eugene,6,0,6,4.236666666666667,0.0
+University of Ljubljana,1,0,1,4.75,0.0
+Sejong University,0,0,0,0.0,0.0
+Southern University of Science and Technology,0,0,0,0.0,0.0
+Leibniz University Hannover,0,0,0,0.0,0.0
+Institute of Mechatronic Systems,0,0,0,0.0,0.0
+Qatar Computing Research Institute,1,0,1,4.75,0.0
+HBKU,0,0,0,0.0,0.0
+--,0,0,0,0.0,0.0
+IDKT-RDI QF,0,0,0,0.0,0.0
+BUAA,1,0,1,4.25,0.0
+"Machine Learning Lab, University of Freiburg",0,0,0,0.0,0.0
+Manipal Institute of Technology,0,0,0,0.0,0.0
+RISE Research Institutes of Sweden,5,0,5,4.118,0.0
+"Massachusetts General Hospital, Harvard University",2,0,2,4.67,0.0
+NEC Labs America,0,0,0,0.0,0.0
+University of California-Davis,0,0,0,0.0,0.0
+"Japan Advanced Institute of Science and Technology, Tokyo Institute of Technology",0,0,0,0.0,0.0
+"Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University,",0,0,0,0.0,0.0
+IIAI,0,0,0,0.0,0.0
+University of Miami,5,0,5,3.7340000000000004,0.0
+Chubu University,2,0,2,4.5,0.0
+chubu university,0,0,0,0.0,0.0
+Keio University,0,0,0,0.0,0.0
+University of the Witwatersrand,7,0,7,3.8814285714285717,0.0
+"Department of Computer Science, University of Texas, Austin",0,0,0,0.0,0.0
+Twitter,0,0,0,0.0,0.0
+Dyno Therapeutics,0,0,0,0.0,0.0
+University of Oregon,0,0,0,0.0,0.0
+"Center for Data Science, Peking University",0,0,0,0.0,0.0
+Tencent Applied Research Center,0,0,0,0.0,0.0
+Huawei Technologies Canada Co. Ltd.,0,0,0,0.0,0.0
+Gdańsk University of Technology,0,0,0,0.0,0.0
+Institute of Mathematics Polish Academy of Sciences,1,0,1,4.0,0.0
+Polish Academy of Science,1,0,1,4.0,0.0
+Syracuse University,2,0,2,4.4,0.0
+National Cheng Kung University,0,0,0,0.0,0.0
+ESTsoft,1,0,1,4.4,0.0
+Orange-labs,1,0,1,4.33,0.0
+"Rakuten Institute of Technology, The University of Tokyo",0,0,0,0.0,0.0
+"CEA/LIST/LVIC, The Vision and Content Engineering Laboratory",0,0,0,0.0,0.0
+Czech Technical Univeresity in Prague,0,0,0,0.0,0.0
+Ruđer Bošković Institute,0,0,0,0.0,0.0
+DESY,0,0,0,0.0,0.0
+St. Petersburg State University,0,0,0,0.0,0.0
+"The Chinese University of HongKong, shenzhen",0,0,0,0.0,0.0
+University of Oulu,1,0,1,4.5,0.0
+Oulu University,0,0,0,0.0,0.0
+University of Florida,4,0,4,3.75,0.0
+Huawei Technologies Ltd. (Canada),0,0,0,0.0,0.0
+99andBeyond,0,0,0,0.0,0.0
+Dataminr,0,0,0,0.0,0.0
+Radboud University Nijmegen,7,0,7,4.45,0.0
+"Donders Institute for Brain, Cognition and Behaviour",1,0,1,4.25,0.0
+Nanjing University of Aeronautics and Astronautics,1,0,1,4.5,0.0
+Université Gustave Eiffel,0,0,0,0.0,0.0
+IGN,0,0,0,0.0,0.0
+Free University of Bozen-Bolzano,0,0,0,0.0,0.0
+Asurion,0,0,0,0.0,0.0
+Athens University of Economics and Business,0,0,0,0.0,0.0
+BCAI,0,0,0,0.0,0.0
+Robert Bosch GmbH,0,0,0,0.0,0.0
+Indian Institute of Technology Madras,0,0,0,0.0,0.0
+Centrum voor Wiskunde en Informatica,0,0,0,0.0,0.0
+Zuken Limited,1,0,1,4.5,0.0
+Leiden University,0,0,0,0.0,0.0
+Linköping University,0,0,0,0.0,0.0
+Kiel University,0,0,0,0.0,0.0
+Yunnan University,0,0,0,0.0,0.0
+University of Memphis,0,0,0,0.0,0.0
+Independent Researcher,0,0,0,0.0,0.0
+German Cancer Research Center,2,0,2,4.5,0.0
+Fujitsu Laboratories Ltd.,0,0,0,0.0,0.0
+FUJITSU LABORATORIES LTD.,0,0,0,0.0,0.0
+Rheinische Friedrich-Wilhelms-Universität Bonn,0,0,0,0.0,0.0
+kyunghee univ,0,0,0,0.0,0.0
+Waseda University,1,0,1,3.33,0.0
+"Nankai University,",0,0,0,0.0,0.0
+Beijing Institute of Technology,5,0,5,4.816,0.0
+OctoML,2,0,2,4.625,0.0
+Polytechnique Montreal (MILA),2,0,2,4.75,0.0
+SenseTime International Pte Ltd,0,0,0,0.0,0.0
+Sensetime International PTE LTD,0,0,0,0.0,0.0
+MedaiTek Research,2,0,2,4.125,0.0
+"Department of Informatics, Technical University Munich",1,0,1,5.0,0.0
+University of Illinois - Urbana Champaign,2,0,2,4.5,0.0
+Georgia State University,1,0,1,5.5,0.0
+"Peking University, Tsinghua University",7,0,7,4.447142857142857,0.0
+HKUST,0,0,0,0.0,0.0
+NLP,2,0,2,5.5,0.0
+"Royal Holloway, University of London",0,0,0,0.0,0.0
+London School of Economics,6,0,6,5.513333333333333,0.0
+University of Nottingham,0,0,0,0.0,0.0
+Korea Advanced Institute of Science and Technology (KAIST),0,0,0,0.0,0.0
+Stony Brook University,0,0,0,0.0,0.0
+Deep Mind,0,0,0,0.0,0.0
+Telecom SudParis,0,0,0,0.0,0.0
+CentraleSupelec,2,0,2,5.75,0.0
+University of Virginia Main Campus,2,0,2,5.5,0.0
+University of California San Diego,0,0,0,0.0,0.0
+Machine Learning Science Team at Amazon,0,0,0,0.0,0.0
+"Indian Institute of Technology Bombay, Dhirubhai Ambani Institute Of Information and Communication Technology",0,0,0,0.0,0.0
+University of Notre Dame,13,0,13,4.941538461538461,0.0
+University of Michigan Ann Arbor,2,0,2,5.5,0.0
+Universidad Carlos II de Madrid,1,0,1,5.5,0.0
+Huazhong University of Science and Technology,6,0,6,5.329999999999999,0.0
+"MILA, University of Montreal",0,0,0,0.0,0.0
+Indian Institute of Technology Varanasi,0,0,0,0.0,0.0
+the University of Tokyo,2,0,2,4.79,0.0
+"Indian Institute of Technology (Indian School of Mines), Dhanbad",0,0,0,0.0,0.0
+university of tsukuba,0,0,0,0.0,0.0
+Kyoto University,3,0,3,4.386666666666667,0.0
+Bilkent University,0,0,0,0.0,0.0
+University of Chinese Academy of Sciences,1,0,1,5.0,0.0
+Tencent Youtu Lab,0,0,0,0.0,0.0
+Tencent YouTu Lab,0,0,0,0.0,0.0
+TU Dortmund,2,0,2,3.75,0.0
+"Max Planck Institute for Informatics, Saarland Informatics Campus",0,0,0,0.0,0.0
+Arthur AI,2,0,2,5.375,0.0
+Vacaville Christian Schools,0,0,0,0.0,0.0
+University of Tübingen & International Max Planck Research School for Intelligent Systems,0,0,0,0.0,0.0
+"Insititute of Neuroinformatics, University of Zurich and ETH Zurich, Swiss Federal Institute of Technology",0,0,0,0.0,0.0
+Alibaba Group and Ant Financial Services Group,1,0,1,6.0,0.0
+"Ben Gurion University of the Negev, Technion",0,0,0,0.0,0.0
+Télécom Bretagne,0,0,0,0.0,0.0
+Orange,0,0,0,0.0,0.0
+Orange Labs,0,0,0,0.0,0.0
+"Physics & Informatics Labs, NTT Research, Inc.",0,0,0,0.0,0.0
+TNO,0,0,0,0.0,0.0
+"Tel Aviv University, Technion",2,0,2,4.665,0.0
+"IIIS, Tsinghua University",1,0,1,4.75,0.0
+Fraunhofer IAIS,1,0,1,5.0,0.0
+"Fraunhofer Institute IAIS, Fraunhofer IAIS",0,0,0,0.0,0.0
+Indian Institute of Technology Bombay,2,0,2,5.75,0.0
+The Swiss AI Lab - IDSIA,0,0,0,0.0,0.0
+ETH Zurich Switzerland,0,0,0,0.0,0.0
+Lund University / Lund Institute of Technology,1,0,1,5.0,0.0
+Salesforce AI Research,1,0,1,5.0,0.0
+Google AI,0,0,0,0.0,0.0
+IBM,2,0,2,4.625,0.0
+Zalando SE,0,0,0,0.0,0.0
+"University of Mainz, Institute of Computer Science",0,0,0,0.0,0.0
+"Edinburgh University, University of Edinburgh",1,0,1,5.5,0.0
+"School of Computer Science, McGill University",0,0,0,0.0,0.0
+"University of Geneva, Switzerland",0,0,0,0.0,0.0
+"University Of Geneva, Switzerland",0,0,0,0.0,0.0
+UNC Chapel Hill,0,0,0,0.0,0.0
+"I2R, A*STAR",0,0,0,0.0,0.0
+Erasmus University Rotterdam,0,0,0,0.0,0.0
+"Computer Science and Artificial Intelligence Laboratory, Electrical Engineering & Computer Science",1,0,1,5.5,0.0
+Amazon.com,0,0,0,0.0,0.0
+Clemson University,2,0,2,5.25,0.0
+"CISPA, saarland university, saarland informatics campus",1,0,1,5.33,0.0
+CNRS/LIP6,1,0,1,4.25,0.0
+University of Leuven,1,0,1,4.5,0.0
+Nankai University,2,0,2,4.96,0.0
+"IIT Kanpur, IIT Kanpur",3,0,3,6.083333333333333,0.0
+"IIT Kanpur, Dhirubhai Ambani Institute Of Information and Communication Technology",0,0,0,0.0,0.0
+-,0,0,0,0.0,0.0
+"Bosch Center for AI, Robert Bosch GmbH",1,0,1,4.5,0.0
+French National Center for Scientific Research,0,0,0,0.0,0.0
+", University of Utah",1,0,1,5.5,0.0
+"Research, Google",2,0,2,4.125,0.0
+"Indiana University, Bloomington",3,0,3,4.25,0.0
+Samsung Research America,1,0,1,5.5,0.0
+Indiana University,2,0,2,4.375,0.0
+Udacity,1,0,1,4.75,0.0
+ENS Paris,0,0,0,0.0,0.0
+MeiTuan,1,0,1,5.0,0.0
+NIH,0,0,0,0.0,0.0
+"Shanghai Jiao Tong University, Tsinghua University",15,0,15,4.09,0.0
+Meituan Inc.,0,0,0,0.0,0.0
+UPSud/INRIA University Paris-Saclay,0,0,0,0.0,0.0
+Max Planck Institute for Molecular Cell Biology and Genetics,0,0,0,0.0,0.0
+Fondation Human Technopole,0,0,0,0.0,0.0
+CUNY Graduate Center,2,0,2,4.46,0.0
+Huawei France,1,0,1,3.75,0.0
+Télécom ParisTech,0,0,0,0.0,0.0
+University of Minnesota-Twin Cities,3,0,3,4.75,0.0
+Gatsby Computational Neuroscience Unit UCL,1,0,1,4.75,0.0
+Gatsby Computational Neuroscience Unit,0,0,0,0.0,0.0
+National Institutes of Health,0,0,0,0.0,0.0
+"IHPC, A*STAR",1,0,1,5.25,0.0
+"Department of Computer Science, Whiting School of Engineering",0,0,0,0.0,0.0
+", Tsinghua University",0,0,0,0.0,0.0
+lip6 - UPMC,0,0,0,0.0,0.0
+ITMO University,0,0,0,0.0,0.0
+Xiamen University,1,0,1,4.25,0.0
+Chalmers University,4,0,4,4.5825,0.0
+Technische Universität Kaiserslautern,0,0,0,0.0,0.0
+TU Kaiserslautern,0,0,0,0.0,0.0
+College of William and Mary,2,0,2,4.625,0.0
+"Institute of Information Engineering, Chinese Academy of Sciences",0,0,0,0.0,0.0
+", Chinese Academy of Sciences",5,0,5,4.66,0.0
+VinAI Research Viet Nam,0,0,0,0.0,0.0
+"Southern University of Science and Technology of China, Tsinghua University",0,0,0,0.0,0.0
+"State University of New York, Binghamton",2,0,2,5.0,0.0
+Institute of Advanced Research in Artificial Intelligence (IARAI),1,0,1,4.6,0.0
+"Department of Computer Science, University of Maryland",0,0,0,0.0,0.0
+"Hebrew University of Jerusalem, Technion",5,0,5,5.55,0.0
+Cairo University,0,0,0,0.0,0.0
+Baylor College of Medicine,1,0,1,5.25,0.0
+University of Goettingen,2,0,2,5.625,0.0
+"School of Engineering and Applied Science, University of Pennsylvania",4,0,4,4.9375,0.0
+Universitat Politècnica de Catalunya,1,0,1,5.75,0.0
+arm,0,0,0,0.0,0.0
+Arm Inc,0,0,0,0.0,0.0
+Trustees of Boston University,0,0,0,0.0,0.0
+Toyota Technological Institute at Chicago,10,0,10,5.525,0.0
+CNRS,1,0,1,5.33,0.0
+Siemens AG,0,0,0,0.0,0.0
+Weizmann Institute,3,0,3,5.5566666666666675,0.0
+Free University Berlin,0,0,0,0.0,0.0
+Dalle Molle Institute for Artificial Intelligence Research,0,0,0,0.0,0.0
+Freie Universität Berlin,6,0,6,5.283333333333333,0.0
+Zalando,0,0,0,0.0,0.0
+U Oxford,1,0,1,6.0,0.0
+USC/ISI,2,0,2,4.625,0.0
+Spanish National Research Council,0,0,0,0.0,0.0
+"Department of Computer Science, University of Wisconsin, Madison",7,0,7,4.892857142857143,0.0
+", Rice University",0,0,0,0.0,0.0
+ShanghaiTech University,5,0,5,5.35,0.0
+University of Delaware,3,0,3,6.0,0.0
+Los Alamos National Laboratory,3,0,3,4.75,0.0
+"Paul G. Allen School of Computer Science & Engineering, University of Washington",0,0,0,0.0,0.0
+"University of Technology Sydney, Australia",0,0,0,0.0,0.0
+Tencent,1,0,1,4.5,0.0
+Xi'an Jiaotong University,11,0,11,4.9390909090909085,0.0
+"Department of Computer and Information Science, University of Massachusetts, Amherst",0,0,0,0.0,0.0
+Sichuan University,5,0,5,4.164,0.0
+University of Tübingen,5,0,5,5.484,0.0
+Indian Institute of Science,3,0,3,4.75,0.0
+Criteo AI Lab,0,0,0,0.0,0.0
+Ensae ParisTech,1,0,1,6.75,0.0
+"South China University of Technology, Tsinghua University",0,0,0,0.0,0.0
+Conservatoire National des Arts et Métiers,0,0,0,0.0,0.0
+"Sorbonne Université, LIP6",0,0,0,0.0,0.0
+Cnam,0,0,0,0.0,0.0
+VU Amsterdam,0,0,0,0.0,0.0
+Ecole Normale Supérieure de Paris,0,0,0,0.0,0.0
+inria,2,0,2,4.375,0.0
+University of Zurich,1,0,1,4.5,0.0
+Indian Institute of Technology Guwahati,0,0,0,0.0,0.0
+"Biometrics Research Laboratories, NEC Corporation",0,0,0,0.0,0.0
+Facebook Reality Labs,0,0,0,0.0,0.0
+Google Brain Robotics & Columbia University,0,0,0,0.0,0.0
+Google Inc,0,0,0,0.0,0.0
+Idiap Research Institute & EPFL,0,0,0,0.0,0.0
+Queen Mary University of London,0,0,0,0.0,0.0
+Mohamed bin Zayed University of Artificial Intelligence,0,0,0,0.0,0.0
+Inception Institute of AI,0,0,0,0.0,0.0
+Cognizant,0,0,0,0.0,0.0
+"The University of Texas, Austin",4,0,4,5.645,0.0
+OpenAI,5,0,5,5.9,0.0
+"The Wharton School, University of Pennsylvania",1,0,1,5.5,0.0
+CUNY Queens College,1,0,1,5.0,0.0
+"Ricoh Company, Ltd.",0,0,0,0.0,0.0
+"LITIS, Université de Rouen Normandie, France",0,0,0,0.0,0.0
+"Institute for Machine Learning, Johannes Kepler University Linz",1,0,1,4.6,0.0
+Amazon Web Services,0,0,0,0.0,0.0
+LIT AI Lab,0,0,0,0.0,0.0
+the University of Melbourne,1,0,1,5.5,0.0
+ENS Paris-Saclay,0,0,0,0.0,0.0
+"Department of Mathematics, UCLA",0,0,0,0.0,0.0
+Eindhoven University of Technology,13,0,13,5.230769230769231,0.0
+University of Rochester,5,0,5,5.8,0.0
+Hisilicon,0,0,0,0.0,0.0
+The Swiss AI Lab IDSIA,0,0,0,0.0,0.0
+"University of Colorado, Boulder",0,0,0,0.0,0.0
+Ecole Normale Supérieure,0,0,0,0.0,0.0
+Harbin Institute of Technology,9,0,9,4.714444444444444,0.0
+Université catholique de Louvain,0,0,0,0.0,0.0
+Nagoya Institute of Technology,1,0,1,6.75,0.0
+NEC,4,0,4,5.0625,0.0
+", UC Santa Barbara",0,0,0,0.0,0.0
+Qualcomm AI Research,1,0,1,5.0,0.0
+"Hebrew University of Jerusalem, Israel",0,0,0,0.0,0.0
+University of Granada,0,0,0,0.0,0.0
+Universidad Autónoma de Madrid,0,0,0,0.0,0.0
+Research institutes of Sweden,0,0,0,0.0,0.0
+University of Pittsburgh,13,0,13,4.781538461538461,0.0
+"Mila, University of Montreal",0,0,0,0.0,0.0
+ByteDance,1,0,1,6.0,0.0
+"Department of Computer Science and Engineering, The Hong Kong University of Science and Technology",6,0,6,5.013333333333333,0.0
+IIIT Hyderabad,0,0,0,0.0,0.0
+International Institute of Information Technology Hyderabad,1,0,1,4.6,0.0
+Toyota Research Institute (TRI),1,0,1,5.33,0.0
+NEC Laboratories Europe,0,0,0,0.0,0.0
+KAIST,9,0,9,4.5744444444444445,0.0
+"Tencent, PCG",0,0,0,0.0,0.0
+National Institute of Informatics,2,0,2,3.79,0.0
+"Technion - Israel Institute of Technology, Technion",0,0,0,0.0,0.0
+Habana Labs (Intel),1,0,1,5.0,0.0
+Technion - Israel Institute of Technology,2,0,2,5.2,0.0
+University of Mannheim,2,0,2,5.75,0.0
+"Institute for Infocomm Research, A*STAR",0,0,0,0.0,0.0
+"Beihang University, Tsinghua University",0,0,0,0.0,0.0
+ZI Mannheim,0,0,0,0.0,0.0
+Central Institute of Mental Health,0,0,0,0.0,0.0
+Rutgers University New Brunswick,0,0,0,0.0,0.0
+"Northwestern University, Northwestern University",4,0,4,5.125,0.0
+"Hebrew University, Hebrew University of Jerusalem",0,0,0,0.0,0.0
+Università degli Studi di Genova,0,0,0,0.0,0.0
+Microsoft AI and Research,0,0,0,0.0,0.0
+NEC Labs,0,0,0,0.0,0.0
+"NEC Laboratories America, Inc.",0,0,0,0.0,0.0
+NEC-Labs,4,0,4,5.02,0.0
+Nanjing University of Science and Technology,5,0,5,5.4,0.0
+Kagenova Ltd,0,0,0,0.0,0.0
+"HRL Laboratories, LLC",0,0,0,0.0,0.0
+HRL Laboratories,0,0,0,0.0,0.0
+"College of Information and Computer Sciences, University of Massachusetts, Amherst",0,0,0,0.0,0.0
+Universita' degli studi di Padova,5,0,5,5.0,0.0
+Univeristé Paris-Dauphine,0,0,0,0.0,0.0
+"Department of Computer Science and Engineering, The Chinese University of Hong Kong",0,0,0,0.0,0.0
+"LIP6, CNRS, Sorbonne Université",0,0,0,0.0,0.0
+"Xi'an Jiaotong University, Tsinghua University",0,0,0,0.0,0.0
+"Faculty of Mathematics, University of Belgrade",0,0,0,0.0,0.0
+Simons Foundation,0,0,0,0.0,0.0
+"Indian Institute of Technology Kharagpur, Dhirubhai Ambani Institute Of Information and Communication Technology",2,0,2,4.875,0.0
+National Chiao Tung University,7,0,7,4.75,0.0
+Florida State University,1,0,1,5.5,0.0
+German Cancer Research Center (DKFZ),2,0,2,4.5,0.0
+"University of Freiburg, Universität Freiburg",2,0,2,5.0,0.0
+"Department of Computer and Information Science, School of Engineering and Applied Science",0,0,0,0.0,0.0
+"Indian Institute of Technology Madras, Dhirubhai Ambani Institute Of Information and Communication Technology",0,0,0,0.0,0.0
+"Indian Institute of Technology Madras,",0,0,0,0.0,0.0
+Ant Group,1,0,1,5.25,0.0
+"Electronic Engineering, Tsinghua University, Tsinghua University",0,0,0,0.0,0.0
+ut austin,0,0,0,0.0,0.0
+Technische Universität Berlin / Learning and Intelligent Systems Group,0,0,0,0.0,0.0
+nanjing university,1,0,1,4.0,0.0
+jd,0,0,0,0.0,0.0
+Sony Corporation,2,0,2,5.75,0.0
+KTH,2,0,2,5.25,0.0
+hebrew university jerusalem israel,0,0,0,0.0,0.0
+Harvard,0,0,0,0.0,0.0
+"Montreal Institute for Learning Algorithms, University of Montreal",1,0,1,5.25,0.0
+"Petuum, Inc",0,0,0,0.0,0.0
+Samsung Advanced Institute of Technology,1,0,1,5.25,0.0
+Georgia Tech Research Corporation,5,0,5,5.134,0.0
+University of Illinois at Chicago,1,0,1,3.75,0.0
+ExxonMobil,0,0,0,0.0,0.0
+Cold Spring Harbor Laboratory,0,0,0,0.0,0.0
+"University of Nebraska, Lincoln",1,0,1,5.75,0.0
+University of Nebraska-Lincoln,0,0,0,0.0,0.0
+TCFSH,0,0,0,0.0,0.0
+University of Sussex,7,0,7,5.428571428571429,0.0
+University of Canifornia Merced,0,0,0,0.0,0.0
+Xi'an Jiaotong-Liverpool University,3,0,3,5.75,0.0
+University of Hildesheim,3,0,3,4.866666666666666,0.0
+Virginia Commonwealth University,2,0,2,5.8,0.0
+Harbin Institute of Techonlogy,0,0,0,0.0,0.0
+Amazon Berlin,0,0,0,0.0,0.0
+"Department of Computer Science, University College London",0,0,0,0.0,0.0
+Amazon Development Center Germany,0,0,0,0.0,0.0
+Dalian University of Technology,1,0,1,3.33,0.0
+University of Trento,8,0,8,5.375,0.0
+"Università degli Studi di Genova, Istituto Italiano di Tecnologia",0,0,0,0.0,0.0
+INRIA Grenoble,0,0,0,0.0,0.0
+Layer 6 AI,0,0,0,0.0,0.0
+Layer6 AI,0,0,0,0.0,0.0
+Xi'an Jiao-Tong Liverpool University,0,0,0,0.0,0.0
+SenseTime Group Limited,4,0,4,4.7925,0.0
+University of Liverpool,0,0,0,0.0,0.0
+"MERCK & CO., INC.",0,0,0,0.0,0.0
+Merck & C,0,0,0,0.0,0.0
+HCL America,1,0,1,4.5,0.0
+Duke Kunshan University,0,0,0,0.0,0.0
+"Computer Science Departmen, Technion-Israel Institute of Technology",1,0,1,5.33,0.0
+York University,2,0,2,4.75,0.0
+Carl von Ossietzky Universität Oldenburg,0,0,0,0.0,0.0
+University of Oldenburg,0,0,0,0.0,0.0
+University of Houston,1,0,1,5.75,0.0
+"university  of tianjin of china, Tsinghua University",0,0,0,0.0,0.0
+"Institute of automation, Chinese academy of science",3,0,3,5.216666666666666,0.0
+NYU Grossman School of Medicine,1,0,1,5.75,0.0
+"University of Texas, Dallas",8,0,8,4.375,0.0
+"Islamic University, Bangladesh",0,0,0,0.0,0.0
+"Tianjin University, Tianjin, China",0,0,0,0.0,0.0
+Kyungpook National University,1,0,1,5.6,0.0
+TU Darmstadt,4,0,4,5.5,0.0
+Tampere University,4,0,4,4.5,0.0
+"ITU of Punjab Lahore, Pakistan",2,0,2,5.5,0.0
+South China University of Technology,4,0,4,5.04,0.0
+Sun Yat-sen University,1,0,1,5.5,0.0
+"Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Chinese Academy of Sciences",0,0,0,0.0,0.0
+University of Moratuwa,0,0,0,0.0,0.0
+SalesForce Research,0,0,0,0.0,0.0
+"Dalian University of Technology, Tsinghua University",0,0,0,0.0,0.0
+Institute of Automation Chinese Academy of Sciences,0,0,0,0.0,0.0
+"University of Illinois, Chicago",5,0,5,4.75,0.0
+The Hong Kong Polytechnic University,3,0,3,4.75,0.0
+"College of Intelligence and Computing, Tianjin University",1,0,1,5.0,0.0
+Uber AI Labs,0,0,0,0.0,0.0
+Graphcore,1,0,1,5.5,0.0
+TomTom,2,0,2,5.5,0.0
+"University of Tennessee, Knoxville",2,0,2,4.25,0.0
+Oak Ridge National Laboratory,2,0,2,4.0,0.0
+Politecnico di Torino,2,0,2,5.5,0.0
+University of California - Los Angeles,0,0,0,0.0,0.0
+"School of Computer and Communication Sciences, Swiss Federal Institute of Technology Lausanne",0,0,0,0.0,0.0
+Technical University of Darmstadt,1,0,1,5.5,0.0
+Riiid! AI Research,3,0,3,5.5,0.0
+"Westlake University, China",3,0,3,5.333333333333333,0.0
+Universidad Carlos III de Madrid,1,0,1,5.5,0.0
+Huawei Noah's Ark Lab,9,0,9,4.691111111111111,0.0
+National Institute of Technology Karnataka,1,0,1,3.0,0.0
+"Language Technologies Institute, Carnegie Mellon University",1,0,1,5.25,0.0
+"Clova AI Research, NAVER Corp.",0,0,0,0.0,0.0
+"Computer Science Department, University of Texas, Austin",1,0,1,5.5,0.0
+VISA,0,0,0,0.0,0.0
+Visa Research,0,0,0,0.0,0.0
+Beijing University of Post and Telecommunication,4,0,4,4.625,0.0
+Idiap Research Institute,0,0,0,0.0,0.0
+Indian Institute of Technology Hyderabad,1,0,1,5.75,0.0
+University of Helsinki,0,0,0,0.0,0.0
+University of Basel,1,0,1,4.67,0.0
+Academy of Military Sciences,0,0,0,0.0,0.0
+SUNY at Stony Brook,0,0,0,0.0,0.0
+Cyberagent,1,0,1,5.0,0.0
+Borealis AI,3,0,3,4.8,0.0
+Ben Gurion University of the Negev,0,0,0,0.0,0.0
+University of Connecticut,2,0,2,4.17,0.0
+KC Machine Learning Lab,1,0,1,5.75,0.0
+Squirrel AI Learning,2,0,2,5.0,0.0
+"University of Toronto, Toronto University",4,0,4,4.6675,0.0
+University of Bergen,0,0,0,0.0,0.0
+Simula UiB,2,0,2,5.67,0.0
+New Jersey Institute of Technology,6,0,6,5.0,0.0
+University of California-Santa Barbara,0,0,0,0.0,0.0
+Justus Liebig University Giessen,0,0,0,0.0,0.0
+Justus Liebig Universität,0,0,0,0.0,0.0
+CUNY City College,2,0,2,4.71,0.0
+IBM Research / MIT-IBM Watson AI Lab,0,0,0,0.0,0.0
+University of Leeds,0,0,0,0.0,0.0
+Kyung Hee University,0,0,0,0.0,0.0
+KyungHee University,0,0,0,0.0,0.0
+"Qualcomm Inc, QualComm",8,0,8,5.0625,0.0
+Apple,11,0,11,5.106363636363636,0.0
+Interdisciplinary Center Herzliya,0,0,0,0.0,0.0
+IDC,0,0,0,0.0,0.0
+IIT Delhi,0,0,0,0.0,0.0
+RWTH Aachen University,4,0,4,4.75,0.0
+Hanyang University,3,0,3,5.056666666666667,0.0
+Army Research Labortory,0,0,0,0.0,0.0
+Westlake University,17,0,17,5.352941176470588,0.0
+University of Kentucky,0,0,0,0.0,0.0
+Leibniz Universität Hannover,4,0,4,4.5425,0.0
+Huawei,3,0,3,5.166666666666667,0.0
+École normale supérieure,0,0,0,0.0,0.0
+ENS,1,0,1,6.0,0.0
+Apple Inc,1,0,1,4.75,0.0
+Sandia National Laboratories,3,0,3,4.946666666666666,0.0
+Alfréd Rényi Institute of Mathematics,1,0,1,6.0,0.0
+University of Warsaw,9,0,9,4.2555555555555555,0.0
+"CIIRC, Czech Technical University",0,0,0,0.0,0.0
+Salesforce,0,0,0,0.0,0.0
+"NAVER Corp, CLOVA AI.",0,0,0,0.0,0.0
+"Clova AI, NAVER Corp.",1,0,1,5.0,0.0
+Cognizant Technology Solutions Corporation,0,0,0,0.0,0.0
+Departmen of Physiology,0,0,0,0.0,0.0
+Université Paris-Est,0,0,0,0.0,0.0
+ETH Zurich,1,0,1,6.0,0.0
+Texas A&M University,5,0,5,5.1899999999999995,0.0
+USC Institute for Creative Technologies,0,0,0,0.0,0.0
+"Institute of Optics and Electronics, Chinese Academy of Sciences",2,0,2,4.625,0.0
+JD.COM,0,0,0,0.0,0.0
+SRI International,6,0,6,5.25,0.0
+Queens University,0,0,0,0.0,0.0
+QualComm,3,0,3,5.25,0.0
+Friedrich-Alexander University Erlangen-Nürnberg,0,0,0,0.0,0.0
+University of Innsbruck,1,0,1,6.0,0.0
+Yonsei unicersity,0,0,0,0.0,0.0
+National Institute of Health,0,0,0,0.0,0.0
+National Institute of Mental Health,0,0,0,0.0,0.0
+"Laboratory of brain and cognition, National institute of mental Health",0,0,0,0.0,0.0
+School of Computer Science,4,0,4,4.8625,0.0
+ASAPP Inc.,0,0,0,0.0,0.0
+"Indian Institute of Technology, Kanpur",0,0,0,0.0,0.0
+University of Munich,0,0,0,0.0,0.0
+"Department of Computer Science, University of North Carolina, Chapel Hill",5,0,5,5.3340000000000005,0.0
+African Institute for mathematical Sciences,0,0,0,0.0,0.0
+"Indian Institute of Technology, Palakkad",0,0,0,0.0,0.0
+IBM Research AI,0,0,0,0.0,0.0
+EnliteAI GmbH,1,0,1,6.25,0.0
+Institute for Machine Learning,0,0,0,0.0,0.0
+"Nara Institute of Science and Technology, Japan",2,0,2,5.125,0.0
+Bytedance,3,0,3,4.5,0.0
+ByteDance AI Lab,3,0,3,4.75,0.0
+Bach Khoa University (HCMUT),0,0,0,0.0,0.0
+University of California-San Diego,0,0,0,0.0,0.0
+IIS/Academia Sinica,2,0,2,4.875,0.0
+William Marsh Rice University,1,0,1,6.0,0.0
+University of Twente,0,0,0,0.0,0.0
+Indian Institute of Technology,0,0,0,0.0,0.0
+Max Planck Institute MIS,0,0,0,0.0,0.0
+Temple University,1,0,1,4.75,0.0
+Harbin institute of technology,0,0,0,0.0,0.0
+Université Laval,0,0,0,0.0,0.0
+University of Maryland College Park,2,0,2,5.5,0.0
+ENPC,3,0,3,4.556666666666667,0.0
+Megvii Technology Inc.,0,0,0,0.0,0.0
+MEGVII Technology,1,0,1,5.5,0.0
+Megvii Technology,1,0,1,5.5,0.0
+MOLOCO,0,0,0,0.0,0.0
+Max-Planck Institute for Intelligent Systems,0,0,0,0.0,0.0
+AppGate Inc.,1,0,1,6.0,0.0
+"University of Science and Technology of China, Tsinghua University",1,0,1,3.2,0.0
+Laval university,1,0,1,5.33,0.0
+Guangdong University of Technology,0,0,0,0.0,0.0
+University of Western Ontario,4,0,4,5.0,0.0
+University of New South Wales,3,0,3,5.166666666666667,0.0
+"Fudan University, Tsinghua University",0,0,0,0.0,0.0
+Huazhong University of Sceince and Technology,0,0,0,0.0,0.0
+The University of Tsukuba,1,0,1,5.0,0.0
+Autodesk,2,0,2,6.0,0.0
+"BITS Pilani, Dhirubhai Ambani Institute Of Information and Communication Technology",1,0,1,4.5,0.0
+Osaka University,0,0,0,0.0,0.0
+CEA,5,0,5,4.6659999999999995,0.0
+CEA LETI,0,0,0,0.0,0.0
+Mines Saint-Etiennes,0,0,0,0.0,0.0
+UNAM,0,0,0,0.0,0.0
+National Research Council Canada,4,0,4,4.6875,0.0
+Virginia Polytechnic Institute and State University,0,0,0,0.0,0.0
+"Machine Learning Department, School of Computer Science",0,0,0,0.0,0.0
+"University of Maryland Institute for Advanced Computer Studies, University of Maryland, College Park",1,0,1,4.75,0.0
+"Department of Electrical Engineering, KU Leuven, Belgium, KU Leuven",0,0,0,0.0,0.0
+East China Normal University,5,0,5,4.4,0.0
+Carleton University,0,0,0,0.0,0.0
+"Columbia University, Columbia University",0,0,0,0.0,0.0
+"Department of Computer Science, Swiss Federal Institute of Technology",0,0,0,0.0,0.0
+Alibaba DAMO Academy,0,0,0,0.0,0.0
+Beijing Jiaotong University,3,0,3,3.75,0.0
+Indian Institute of Technology Kharagpur,4,0,4,4.625,0.0
+", George Mason University",0,0,0,0.0,0.0
+Emory University,4,0,4,5.4375,0.0
+Lawrence Livermore National Laboratory,1,0,1,5.0,0.0
+University of North Carolina at Chapel Hill,1,0,1,4.33,0.0
+"University of Michigan, Ann Arbor",1,0,1,5.33,0.0
+The Hebrew University of Jerusalem,0,0,0,0.0,0.0
+Northwestern Polytechnical University,2,0,2,4.875,0.0
+"Weizmann Institute, Technion",2,0,2,5.875,0.0
+The university of Warwick,2,0,2,5.375,0.0
+Norwegian Defence Research Establishment (FFI),0,0,0,0.0,0.0
+Forsvarets Forskningsinstitutt,0,0,0,0.0,0.0
+Reconstruct,0,0,0,0.0,0.0
+University of Birmingham,0,0,0,0.0,0.0
+"State University of New York, Albany",1,0,1,4.75,0.0
+"Department of Computer Science and Technolog, Tsinghua University",0,0,0,0.0,0.0
+Anhui University,0,0,0,0.0,0.0
+"University of California, Davis",4,0,4,4.5,0.0
+UC Davis,0,0,0,0.0,0.0
+Boise State University,0,0,0,0.0,0.0
+Unito,0,0,0,0.0,0.0
+University of Torino,0,0,0,0.0,0.0
+SungKyunKwan University,0,0,0,0.0,0.0
